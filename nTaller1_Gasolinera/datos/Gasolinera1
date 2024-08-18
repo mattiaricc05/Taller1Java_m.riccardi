@@ -1,0 +1,13 @@
+tipo:CORRIENTE:6800:61.294117647058826
+tipo:DIESEL:5900:100.0
+tipo:EXTRA:9500:64.21052631578948
+tipo:PLUS:7200:65.0
+surtidor:Federico Suarez:CORRIENTE:0.0:DIESEL:0.0:EXTRA:15.789473684210526:PLUS:0.0
+surtidor:Pablo Pinzon:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:PLUS:0.0
+surtidor:Federico Suarez:CORRIENTE:0.0:DIESEL:2.0:EXTRA:0.0:PLUS:0.0
+surtidor:Pablo Espinosa:CORRIENTE:14.705882352941176:DIESEL:0.0:EXTRA:0.0:PLUS:0.0
+empleado:Pablo Pinzon:0
+empleado:Juan Felipe Guevara:0
+empleado:Federico Suarez:161800
+empleado:Luca Improta:0
+empleado:Pablo Espinosa:100000
